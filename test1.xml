@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AadlSpec name="flight">
+<systemType name="flight"/>
+<systemImpl name="flightaaaa.Impl" compType="flightbbb">
+</systemImpl>
+</AadlSpec>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AadlSpec name="flight">
+<systemImpl name="flight.Impl" compType="flight">
+<subcomponents>
+      <processSubcomponent name="partition1" classifier=" Flight_Management_Partition.Impl"/>
+</subcomponents>
+</systemImpl>
+<processImpl name="Flight_Management_Partition.Implaaaa" compType=" Flight_Management_Partition"/>
+</AadlSpec>
